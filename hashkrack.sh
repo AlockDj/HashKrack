@@ -25,7 +25,7 @@ clear
 # Print logo and script information
 echo "${bold}${green}$logo${reset}"
 echo "${bold}${yellow}==============================================================================="
-echo "${bold}${yellow}==============================Created By: dukh14tma============================"
+echo "${bold}${yellow}==============================Created By: AlockDj  ============================"
 echo "${bold}${yellow}===============================================================================${reset}"
 echo
 
