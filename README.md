@@ -14,3 +14,5 @@ then it will ask for wordlist write the path of wordlist or you can also use my 
 
 # how to install
 $ git clone https://github.com/Dukh14tma/HashKrack
+$ bash ./hashKrack.sh
+
